@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197949017612",
+    "project_id": "emer-ff3f3",
+    "storage_bucket": "emer-ff3f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197949017612:android:7afab607c3d2177fbf6829",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197949017612-un07cn27ca5e47urp0as4p93jgj1noug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1-riqGSfhJn_dG6YdR7MgXjAA6bsiuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197949017612-un07cn27ca5e47urp0as4p93jgj1noug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
